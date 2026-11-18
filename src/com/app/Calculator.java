@@ -15,4 +15,9 @@ public class Calculator {
 	}
 
 
+	public void mul(int a,int b) {
+		System.out.println("Multilplication is :"+a*b);
+	}
+
+
 }
